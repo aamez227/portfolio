@@ -362,6 +362,11 @@ body {
 	width: 150px;
 }
 
+.projectImagesMac {
+	width: 300px;
+	height: : 300px;
+}
+
 input[type='text'],
 select,
 textarea {
